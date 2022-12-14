@@ -11,7 +11,7 @@ $ yarn install
 $ yarn start
 ```
 
-## Screens in this project
+## Screenshot in this MD file
 
 - Desktop view
 - Responsive view
@@ -34,10 +34,17 @@ $ yarn start
 
 ## Tech Stack and Tools
 
-- React JS
+- React JS and TS
 - Git and GitHub
 - ECharts
 
 # Screenshots
+
+Desktop View
+![Echart Desktopview Screenshot](/src/assets/images/desktopview.JPG)
+
+Responsive view
+
+![Echart Responsiveview Screenshot](/src/assets/images/responsiveview.JPG)
 
 - [@ MdArif](https://github.com/mdarif6/)
